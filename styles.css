@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(240, 2, 2);
+}
+body {
+    background-color: blanchedalmond;
+}
+p {
+    text-indent: 20px;
+   }
+a {
+    color: blue;
+}
+img {
+    width: 500px;
+    margin-left: 100px;
+}
